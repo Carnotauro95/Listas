@@ -3042,7 +3042,7 @@ https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Cultura",Discovery Channel
-http://94.242.221.141/hls/a-lo/stream141.m3u8
+https://list.iptvcat.com/my_list/s/2de6cea6f0e541028ec2d507af63c267.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Películas",Rakuten Family
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
